@@ -1,5 +1,5 @@
 # resume_card
-My resume is a web developer. Nice to meet you❤️   
+This is my resume. [WEB] Nice to meet you❤️   
 
 <hr>
 
